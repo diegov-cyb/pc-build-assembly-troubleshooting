@@ -48,11 +48,11 @@ Captures the installation of the operating system on a virtual machine after suc
 ![VM Installation](images/ncl.png)
 
 ## **Tools & Techniques**
-- Hardware Assembly Tools: Screwdrivers, anti-static precautions, cable ties
-- System Configuration: BIOS/UEFI configuration, fan tuning, boot priority adjustments
-- Diagnostics: POST analysis, TPM/firmware message resolution, driver troubleshooting
-- Performance Monitoring: Temperature/fan curve tuning, stability verification
-- Software Tools:
+- **Hardware Assembly Tools:** Screwdrivers, anti-static precautions, cable ties
+- **System Configuration:** BIOS/UEFI configuration, fan tuning, boot priority adjustments
+- **Diagnostics:** POST analysis, TPM/firmware message resolution, driver troubleshooting
+- **Performance Monitoring:** Temperature/fan curve tuning, stability verification
+- **Software Tools:**
     - Windows Installation Media
     - AMD Radeon Drivers
     - Motherboard chipset utilities
